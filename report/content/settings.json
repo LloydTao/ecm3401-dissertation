@@ -1,0 +1,10 @@
+{
+  "title": "ECM3401 - Dissertation",
+  "url": "docs/",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "LloydTao/ecm3401-dissertation",
+  "twitter": "LloydTao"
+}
